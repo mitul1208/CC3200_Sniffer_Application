@@ -2,6 +2,7 @@
 
 This Application showcase How you can use cc3200 as Sniffer.  
 
+Download and Import the project in CCS studio.
 You can apply and filter packets on below fields.
 
 1. Source MAC address  
