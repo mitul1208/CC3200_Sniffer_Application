@@ -1,5 +1,4 @@
 # CC3200_Sniffer_Application
-Ported cc3100 application for Launchpad cc3100
 
 This Application showcase How you can use cc3200 as Sniffer.  
 
